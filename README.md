@@ -2,7 +2,7 @@
 
 # Hi, I'm Ian 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=Cybersecurity+Student;Blue+Team+%26+Endpoint+Security;Homelab+Builder;Linux+%E2%80%A2+Docker+%E2%80%A2+Proxmox)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=Information+Systems+Student;Blue+Team+%26+Endpoint+Security;Homelab+Builder;Linux+%E2%80%A2+Docker+%E2%80%A2+Proxmox)](https://git.io/typing-svg)
 
 </div>
 
