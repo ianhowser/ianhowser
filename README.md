@@ -44,7 +44,7 @@
 
 | Project | Description | Status |
 |---|---|---|
-| Homelab Infrastructure | Raspberry Pi and Proxmox-based environment for cybersecurity and infrastructure learning | Documentation in progress |
+| [Homelab Infrastructure](https://github.com/ianhowser/Homelab-Infrastructure) | Raspberry Pi and Proxmox-based environment for cybersecurity and infrastructure learning | Active |
 | Wazuh SIEM | Centralized endpoint monitoring for Windows, Linux, and macOS devices | Active |
 | Docker Services | Self-hosted monitoring, security, and management applications | Active |
 | Pi-hole DNS | Network-wide DNS filtering and local hostname resolution | Active |
